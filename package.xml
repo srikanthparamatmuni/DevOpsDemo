@@ -12,7 +12,8 @@
         <members>*</members>
         <name>ApexPage</name>
     </types>
-    <types>
+<!-- Sample Comment -->
+   <types>
         <members>*</members>
         <name>ApexTrigger</name>
     </types>
